@@ -1,0 +1,10 @@
+version: 0.0
+os: linux
+files:
+  - source: /Publish
+    destination: /home/pasatupase/demo
+hooks:
+  AfterInstall:
+    - location: scripts/after.sh
+      timeout: 300
+      runas: root
