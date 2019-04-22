@@ -1,2 +1,3 @@
-#!/bin/sh
-echo "yupoowwasaasassasw" > /home/pasatupase/demo/after1.txt
+#!/bin/bash
+
+pwd > /home/pasatupase/demo/after1.txt

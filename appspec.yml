@@ -1,7 +1,7 @@
 version: 0.1
 os: linux
 files:
-  - source: /Publish
+  - source: /Pase
     destination: /home/pasatupase/demo
 hooks:
   AfterInstall:
