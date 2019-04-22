@@ -1,3 +1,3 @@
-#!/bin/#!/usr/bin/env bash
+#!/bin/bash
 
 echo "yurrrrr" > /home/pasatupase/demo/after1.txt
