@@ -5,3 +5,4 @@ pwd > /home/pasatupase/before1dddddd.txt
 pwd
 pwd
 pwd
+pwd
