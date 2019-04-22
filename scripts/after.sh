@@ -1,1 +1,1 @@
-touch /home/pasatupase/demo/lologre.txtx
+touch /home/pasatupase/demo/lologre.txt
