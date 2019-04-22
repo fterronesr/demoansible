@@ -1,1 +1,1 @@
-echo "yupoo" > /home/pasatupase/demo/beforelologre.txt
+echo "yupoo" > /home/pasatupase/demo/before1.txt
