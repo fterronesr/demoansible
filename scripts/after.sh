@@ -27,13 +27,4 @@ for country in "${COUNTRIES[@]}"; do
 	    #mv "ssicc${country///}.war" nssicc.war
 	fi
 
-	if [ -d "$SSICC_DIRECTORY" ]; then
-		#shell path
-		cd "${DEPLOY_DIRECTORY}"
-
-		#execute shell
-		touch "Auto_SSICC_${ENVIRONMENT}_Automatico_${country///}.txt"
-		#sh ".Auto_SSICC_${ENVIRONMENT}_Automatico.sh" 'SSICC' '${country}'
-	fi
-
 done
