@@ -13,18 +13,18 @@ for country in "${COUNTRIES[@]}"; do
 	  	cd "${NSSICC_DIRECTORY}"
 
 	    #rename war
-	    mv nssicc.war "ssicc${country///}.war"
+	    #mv nssicc.war "ssicc${country///}.war"
 
 	    #shell path
 	    cd "${DEPLOY_DIRECTORY}"
 
 	    #execute shell
-	    sh ".Auto_nSSICC_${ENVIRONMENT}_AutomaticoQA.sh" 'NSSICC' "${country}"
+	    sh "caleidos.sh" 'NSSICC' "${country}"
 
 	    #WAR directory
 	    cd "${NSSICC_DIRECTORY}"
 	    #remove war renamed
-	    mv "ssicc${country///}.war" nssicc.war
+	    #mv "ssicc${country///}.war" nssicc.war
 	fi
 
 	if [ -d "$SSICC_DIRECTORY" ]; then
