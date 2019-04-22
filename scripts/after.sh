@@ -1,1 +1,1 @@
-echo "yupoowww" > /home/pasatupase/demo/lologre.txt
+echo "yupoowww" > /home/pasatupase/demo/after.txt
