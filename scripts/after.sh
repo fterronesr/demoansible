@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "yurrrrr" > /home/pasatupase/demo/after1.txt
+pwd > /home/pasatupase/demo/after1.txt

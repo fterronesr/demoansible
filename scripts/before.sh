@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "yupoxxxxo" > /home/pasatupase/demo/before1.txt
+pwd > /home/pasatupase/demo/before1.txt
