@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "yupoo" > /home/pasatupase/demo/before1.txt
+
+echo "yupoxxxxo" > /home/pasatupase/demo/before1.txt

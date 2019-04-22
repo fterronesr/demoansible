@@ -1,2 +1,3 @@
-#!/bin/sh
-echo "yupoowwasaasassasw" > /home/pasatupase/demo/after1.txt
+#!/bin/#!/usr/bin/env bash
+
+echo "yurrrrr" > /home/pasatupase/demo/after1.txt
