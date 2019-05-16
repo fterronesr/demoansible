@@ -1,2 +1,2 @@
-touch /home/pasatupase/demo/beforelologre.txt
-sleep 30
+#!/bin/bash
+sleep 60
